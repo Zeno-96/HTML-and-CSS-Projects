@@ -1,2 +1,2 @@
 # HTML-and-CSS-Projects
-HTML and CSS Project file for The Tech Academy C# Bootcamp
+HTML and CSS Project files for The Tech Academy C# Bootcamp
