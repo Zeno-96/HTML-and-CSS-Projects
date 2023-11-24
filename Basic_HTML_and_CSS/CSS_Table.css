@@ -1,0 +1,18 @@
+table {
+    border: 2px solid maroon;
+    font-family: 'playfair display', 'times new roman', serif;
+}
+
+td:hover {
+    background-color: black;
+    color: gold;
+}
+
+tr, th {
+    background-color: grey;
+    color: maroon;
+}
+
+tr, td {
+    background-color: ;
+}
