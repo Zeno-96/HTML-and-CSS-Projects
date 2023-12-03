@@ -1,17 +1,17 @@
 body {
-    background-color: blue;
+    background-color: #fff;
 }
 
 h1 {
-    color: ivory;
+    color: rgba(8, 141, 165, 1);
     margin-left: 100px;
-    text-shadow: 1px .5px 4px;
+    text-shadow: 1px .5px 4px rgba(0, 0, 0, 0.6);
 }
 
 .container {
     width: 450px;
     height: 450px;
-    background-color: goldenrod;
+    background-color: #faebd7;
     border: 2px solid black;
     border-radius: 5%;
 }
@@ -58,7 +58,7 @@ h1 {
 }
 
 /*----- Hover, Translate, and Transform Effects -----*/
-.container .squares:nth-child(-n+4) :hover {
+.container .squares:nth-child(-n+4) :hover{
     background-image: url(../images/icons/icons2.png);
     transform: scale(.5);
     animation-name: race;
