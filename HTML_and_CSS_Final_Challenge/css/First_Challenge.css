@@ -1,0 +1,60 @@
+html {
+    font-family: "Playfair Display", sans-serif;
+}
+
+nav {
+    display: inline;
+    list-style: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: brown;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 750px;
+    width: 30%;
+    filter: saturate(125%);
+    border: 2em;
+    border-radius: 100px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: tan;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+table, th, td {
+    border: 4px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: tan;
+}
+
+.footer {
+    text-align: center;
+    font-weight: bold;
+}
