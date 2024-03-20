@@ -10,3 +10,7 @@
 * CSS
 * Javascript
 * Bootstrap
+
+# Portfolio Page
+
+### If you haven't already visited it, feel free to browse my [portfolio page](https://zeno-96.github.io) made with knowledge gained on this course. The page also gives a little background about me too.
